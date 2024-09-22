@@ -1,4 +1,4 @@
 msg = "hello kuaishou"
 print(msg)
 
-print(1+1)
+print(1+2)
